@@ -1,4 +1,4 @@
-theme: THEME-NAME
+theme: minima
 
 # Api
 ```js
